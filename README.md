@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Clayton-HuffAKADream or Elliot
-- 👀 I’m interested in singing, and being a veterinary technician
-- 🌱 I’m currently learning vet tech at parkway west
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Clayton-HuffAKADream but you can call me Elliot.
+- 👀 I’m interested in singing and being a Veterinary Technician.
+- 🌱 I’m currently learning Vet Tech at Parkway West Career and Technology Center.
 - 📫 How to reach me - Email me at ellioth.131313@gmail.com
 
 <!---
